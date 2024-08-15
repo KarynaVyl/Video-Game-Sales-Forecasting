@@ -16,7 +16,7 @@
 - streamlit_app.py: Основний код Streamlit додатку для візуалізації результатів прогнозування.
 - requirements.txt: Перелік необхідних бібліотек Python.
 - predicted_sales.csv: Дані про актуальні і прогнозні продажі відеоігр.
-- Video games sales report.html: Звіт за результатами аналізу даних
+- Video games sales report.txt: Звіт за результатами аналізу даних
 - video_games_sales.py: Код з машинним навчанням для отримання прогнозів
 
 ## Опис функціоналу
